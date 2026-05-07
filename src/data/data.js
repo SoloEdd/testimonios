@@ -14,7 +14,6 @@ const testimonios = [
     texto: 'Me ayudó a duplicar mis clientes. Fácil de usar y fiable.',
     foto: 'https://i.pravatar.cc/150?img=12'
   },
-  // Se deben añadir 5 elementos adicionales para cumplir con la actividad 
   {
     id: 3,
     nombre: 'Carla Méndez',
